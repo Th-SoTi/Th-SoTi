@@ -103,7 +103,6 @@ Sou apaixonado por tecnologia e automação, focado em desenvolvimento de chatbo
 <br/>
 
 ### 📬 **Entre em Contato**
-- 📞 WhatsApp: [+55 24 99855-3213](https://wa.me/5524998553213)
 - 📧 E-mail: Sotisegura@gmail.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/thiago-soti/)
 
