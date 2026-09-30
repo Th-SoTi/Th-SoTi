@@ -10,11 +10,11 @@ Sou apaixonado por tecnologia e automação, focado em desenvolvimento de chatbo
 - 💼 Experiência com demandas de automação em projetos realizados como PJ.
 
 ### 💻 **Habilidades**
-- Linguagens: JavaScript, Python, Java, C
+- Linguagens: JavaScript, Python, Java, SQL
 - Tecnologias: HTML, CSS
-- Bibliotecas e ferramentas: Venom, whatsapp-web.js, Postman, Git, Docker
 - NPM e gerenciamento de dependências
 - Automação de chatbots e bots para redes sociais
+- Administração de banco de dados
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -33,14 +33,6 @@ Sou apaixonado por tecnologia e automação, focado em desenvolvimento de chatbo
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="c"
-    title="c" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 />
 <img 
     align="left" 
